@@ -14,7 +14,7 @@ public class Main {
 
          int a = 21;
 
-        if(a == 2){
+        if(a == 21){
             a = 2;
             a=22;
         }
