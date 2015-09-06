@@ -10,6 +10,7 @@ public class Main {
 
         if(a == 2){
             a = 2;
+            a=22;
         }
 
     }
