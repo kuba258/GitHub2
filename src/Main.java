@@ -5,5 +5,12 @@ public class Main {
     public static void main(String[] args){
 
         System.out.println("Hello");
+
+         int a = 2;
+
+        if(a == 2){
+            a = 1;
+        }
+
     }
 }
