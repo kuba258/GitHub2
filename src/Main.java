@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println("Hello");
 
-         int a = 2;
+         int a = 21;
 
         if(a == 2){
             a = 2;
