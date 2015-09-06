@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args){
     tree.add("Ala");
 
-        System.out.println("Hello");
+        System.out.println("Helloo");
 
          int a = 21;
 
