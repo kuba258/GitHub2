@@ -1,10 +1,6 @@
 /**
  * Created by Kuba on 08.09.15.
  */
-public class KlasaNieabstrakcyjna extends KlasaAbstrakcyjna {
+public class KlasaNieabstrakcyjna {
 
-    @Override
-    public void licz() {
-
-    }
 }
