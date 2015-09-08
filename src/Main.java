@@ -5,19 +5,12 @@ import java.util.TreeSet;
  */
 public class Main {
 
-    static TreeSet tree = new TreeSet();
+     TreeSet tree = new TreeSet();
+
 
     public static void main(String[] args){
-    tree.add("Ala");
-
-        System.out.println("Helloo");
-
-         int a = 21;
-
-        if(a == 21){
-            a = 2;
-            a=22;
-        }
+    Main a = new Main();
+        a.tree.add(3);
 
     }
 }
